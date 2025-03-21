@@ -76,4 +76,4 @@ const base64Binary = Buffer.from(uint8Array).toString('base64');
 
 ## License
 
-ISC 
+APACHE 2.0
