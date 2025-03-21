@@ -1,0 +1,25 @@
+{
+  "name": "blobposter-simple",
+  "version": "1.0.0",
+  "description": "A simple application to post blobs to Celestia using Keplr wallet",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "celestia",
+    "blob",
+    "keplr",
+    "blockchain"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@keplr-wallet/types": "^0.12.199",
+    "buffer": "^6.0.3",
+    "vite": "^6.2.0"
+  }
+}
